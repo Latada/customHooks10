@@ -12,7 +12,7 @@ Collection of 10 Custom Hooks for React
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
+- [x] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
