@@ -3,7 +3,7 @@
 Collection of 10 Custom Hooks for React
 
 - [ ] useTitle
-- [ ] useInput
+- [x] useInput
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
